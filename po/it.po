@@ -1,0 +1,174 @@
+# Copyright (C) 2022 scriptmelvin
+# This file is distributed under the same license as the InfoBarWeather package.
+# FIRST AUTHOR scriptmelvin, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: InfoBarWeather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-10 21:53+0200\n"
+"PO-Revision-Date: 2024-05-21 17:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: scriptmelvin\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Press OK"
+msgstr "Premi OK"
+
+msgid "BFT"
+msgstr ""
+
+msgid "m/s"
+msgstr ""
+
+msgid "km/h"
+msgstr ""
+
+msgid "mph"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
+msgid "Please configure a location in plugin settings"
+msgstr "Configura una posizione nelle impostazioni del plugin"
+
+msgid "Select location"
+msgstr "Seleziona posizione"
+
+msgid "Could not parse location data."
+msgstr "Impossibile analizzare i dati sulla posizione."
+
+msgid "State/province"
+msgstr "Stato/provincia"
+
+msgid "Country"
+msgstr "Paese"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Select"
+msgstr "Seleziona"
+
+# TRANSLATORS: do not translate %(version)s
+#              it will be replaced by the plugins version
+msgid "InfoBarWeather %(version)s setup"
+msgstr ""
+
+msgid "Enabled"
+msgstr "Abilitato"
+
+msgid "Location"
+msgstr "Posizione"
+
+msgid "Press OK to open location search."
+msgstr "Premi OK per la ricerca della posizione"
+
+msgid "Wind speed unit"
+msgstr "Unità di misura della velocità del vento"
+
+msgid "Display wind speed as BFT, m/s, km/h or mph."
+msgstr "Visualizza la velocità del vento come BFT, m/s, km/h o mph."
+
+msgid "Temperature unit"
+msgstr "Unità di temperatura"
+
+msgid "Display temperature as Â°C or Â°F."
+msgstr "Visualizza la temperatura come Â°C o Â°F."
+
+msgid "Show location"
+msgstr "Mostra posizione"
+
+msgid "Show last update time"
+msgstr "Mostra l'ora dell'ultimo aggiornamento"
+
+msgid "Show last update time by weather service."
+msgstr "Mostra l'ora dell'ultimo aggiornamento in base al servizio meteo."
+
+msgid "Show sunrise/sunset"
+msgstr "Mostra alba/tramonto"
+
+msgid "Show humidity"
+msgstr "Mostra umidità"
+
+msgid "Show rain"
+msgstr "Mostra pioggia"
+
+msgid "Show rain forecast"
+msgstr "Mostra previsioni pioggia"
+
+msgid ""
+"Show two hour rain forecast instead of rain probability (only available for "
+"The Netherlands and Belgium)."
+msgstr ""
+"Mostra le previsioni di pioggia a due ore invece della probabilità di "
+"pioggia (disponibile solo per i Paesi Bassi e il Belgio)."
+
+msgid "Show wind"
+msgstr "Mostra vento"
+
+msgid "Show icon"
+msgstr "Mostra icone"
+
+msgid "Show temperature"
+msgstr "Mostra temperatura"
+
+msgid "Show feel temperature"
+msgstr "Mostra la temperatura percepita"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Enter (part of) location to search for (e.g. \"Amsterdam\" or \"Ams\"):"
+msgstr ""
+"Inserisci la posizione (parte di) da cercare (ad es. \"Amsterdam\" o "
+"\"Ams\"):"
+
+msgid "Could not download location data."
+msgstr "Impossibile scaricare i dati sulla posizione."
+
+msgid "Show current weather in infobar"
+msgstr "Mostra il meteo attuale nella barra delle informazioni"
+
+msgid "In infobar"
+msgstr "Nella infobar"
+
+msgid "Above infobar"
+msgstr "Sopra la barra delle informazioni"
+
+msgid "Top of screen"
+msgstr "Parte superiore dello schermo"
+
+msgid "Lat"
+msgstr "Lat"
+
+msgid "Lon"
+msgstr "Lon"
+
+msgid "Position"
+msgstr "Posizione"
+
+msgid "Show min/max temperature"
+msgstr "Mostra temperatura min/max"
+
+msgid "Show UV index"
+msgstr "Mostra l'indice UV"
+
+msgid "UV"
+msgstr "UV"
+
+msgid "Display location as"
+msgstr "Visualizza la posizione come"
+
+msgid "Show sun power"
+msgstr "Mostra l'energia del sole"
+
+msgid "W/mÂ²"
+msgstr "W/mÂ²"
